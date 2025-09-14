@@ -173,7 +173,7 @@ In addition, a _Date_ table was created and a one-to-many relationship establish
 
 The following image shows the definitive semantic model:
 
-![]()
+![](files/model.png)
 
 ### Power BI Report
 
