@@ -177,13 +177,15 @@ The following image shows the definitive semantic model:
 
 ### Power BI Report
 
-A report was built upon the model. The editable version can be found in the [Power BI file](files/water-bottling-facilities-in-the-us.pbix) on this Github repository. There is also a read-only version of the report on [this link](https://app.powerbi.com/view?r=eyJrIjoiNGI5MWYxNjctZTVmZi00MGNjLTkzYjItMjgxNTRiNWU3MDdmIiwidCI6IjM1NDg3YTU2LTFlNGYtNDAzNC04ODNkLWViYjBiMDMxZDNjNCIsImMiOjR9).
+A report was built upon the model. The editable version can be found in the [Power BI file](files/water-bottling-facilities-in-the-us.pbix) on this Github repository. There is also a read-only version of the report on [this link](https://app.powerbi.com/view?r=eyJrIjoiNGI5MWYxNjctZTVmZi00MGNjLTkzYjItMjgxNTRiNWU3MDdmIiwidCI6IjM1NDg3YTU2LTFlNGYtNDAzNC04ODNkLWViYjBiMDMxZDNjNCIsImMiOjR9&pageName=201007cede2b36c8f5ce).
 
 The report consists on a front cover and two more pages, with the following elements:
 
 - _Front Cover_:
 
 This page shows the title of the project and buttons to navigate to the rest of the report, with icons representing the different pages. The rest of the pages have a panel on the left side with the same icons, which allows for navigation to other pages or to this cover.
+
+![](files/front-cover.png)
 
 - _Water Bottling Facilities_:
 
@@ -243,7 +245,7 @@ As it was previously stated, an infographic was developed with the main conclusi
 
 This infographic presents some key figures about water facilities and sources. It is intended for its publication in social media (e.g. Instagram), with a link to the full Power BI report.
 
-!()[files/infographic.png]
+![](files/infographic.png)
 
 ### Data Source
 
