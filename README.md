@@ -32,15 +32,15 @@ Finally, an infographic was developed with the main conclusions of this analysis
 
 The available data for this project consists in three .txt datasets and an .xml file, available in [DATA.GOV](https://catalog.data.gov/dataset/inventory-of-water-bottling-facilities-in-the-united-states-2024-and-select-water-use-data), an official website of the U.S. Government. According to the description in the website, the files contain the following information:
 
-- WBinventory_DataSources.txt: Information about how the data was acquired for the construction of the other two files.
+- [WBinventory_DataSources.txt](files/WBinventory_DataSources.txt): Information about how the data was acquired for the construction of the other two files.
 
-- WBinventory_FacilityList.txt: Inventory of facilities and associated facility information.
+- [WBinventory_FacilityList.txt](files/WBinventory_FacilityList.txt): Inventory of facilities and associated facility information.
 
-- WBinventory_WaterUse.txt: Water use information for selected facilities.
+- [WBinventory_WaterUse.txt](files/WBinventory_WaterUse.txt): Water use information for selected facilities.
 
 - [WBinventory_DR.xml](https://www.sciencebase.gov/catalog/file/get/649d8a39d34ef77fcb03f8a6?f=__disk__c7%2F7c%2F86%2Fc77c86c849ca1855d9467b6e8b78b10f4dab7c12&transform=1&allowOpen=true): Metadata with descriptions of the fields and values in each dataset.
 
-As a first step, an initial exploration was performed in Microsoft Excel for each of the files. The complete process with its results can be found in the [initial_exploration.xlsx]() Excel file on this Github repository.
+As a first step, an initial exploration was performed in Microsoft Excel for each of the files. The complete process with its results can be found in the [initial_exploration.xlsx](files/initial_exploration.xlsx) Excel file on this Github repository.
 
 The steps taken and main results can be summed up as follows:
 
@@ -177,7 +177,7 @@ The following image shows the definitive semantic model:
 
 ### Power BI Report
 
-A report was built upon the model. The editable version can be found in the [watersources-datagov.pbix]() file on this Github repository. There is also an open link to a read-only version of the report on [this link](https://app.powerbi.com/view?r=eyJrIjoiNGI5MWYxNjctZTVmZi00MGNjLTkzYjItMjgxNTRiNWU3MDdmIiwidCI6IjM1NDg3YTU2LTFlNGYtNDAzNC04ODNkLWViYjBiMDMxZDNjNCIsImMiOjR9).
+A report was built upon the model. The editable version can be found in the [Power BI file](files/water-bottling-facilities-in-the-us.pbix) on this Github repository. There is also a read-only version of the report on [this link](https://app.powerbi.com/view?r=eyJrIjoiNGI5MWYxNjctZTVmZi00MGNjLTkzYjItMjgxNTRiNWU3MDdmIiwidCI6IjM1NDg3YTU2LTFlNGYtNDAzNC04ODNkLWViYjBiMDMxZDNjNCIsImMiOjR9).
 
 The report consists on a front cover and two more pages, with the following elements:
 
@@ -189,33 +189,33 @@ This page shows the title of the project and buttons to navigate to the rest of 
 
 On the top of the page, there is the title and are three text fields, showing the total number of facilities, total sales, and total number of employees.
 
-![]()
+![](files/top-report-p1.png)
 
 When hovering over sales and employees data, a message appears indicating the percentage of available data for the calculation (considering not all facilities have sales or employees data). This percentage changes dynamically, considering other filters applied to the page.
 
-![]()
+![](files/top-report-tooltip-p1.png)
 
 On the left side, there is a map visual with the distribution of Facilities, Sales, and Employees over the U.S. territory. One of these three distributions can be selected at a time, by interacting with the three buttons on the left. There are also two buttons to pick a level of granularity, in terms of location (States or Counties). There is also a slicer that allows to filter all the data by a specific State or County.
 
-![]()
+![](files/left-side-report-p1.png)
 
 Finally, the right side shows a pie chart, which represents the distribution of different sources of water for the bottling facilities.
 
-![]() 
+![](files/right-side-report-p1.png) 
 
 - _Water Withdrawal_:
 
 On the top of the page, there is the title and a text field that reads “IMPORTANT INFO”. When hovering over it, a tooltip shows the percentage of facilities for which water withdrawal info is available. This field intends to prevent the user from drawing misled conclusions, as the facilities considered on this page constitute only a very small sample of the total.
 
-![]()
+![](files/top-report-p2.png)
 
 The top half of the page shows a bar chart, representing the top 10 facilities with the greatest levels of daily water withdrawal.
 
-![]()
+![](files/top-half-p2.png)
 
 The bottom half shows a line chart, representing how the levels of withdrawal evolve over time. The graph aggregates the data for all facilities, but it can also show the evolution of a particular facility by clicking its corresponding bar on the bar chart. There are also two buttons to choose a level of granularity for the data: yearly or monthly.
 
-![]()
+![](files/bottom-half-p2.png)
 
 ### Key Insights
 
@@ -243,7 +243,7 @@ As it was previously stated, an infographic was developed with the main conclusi
 
 This infographic presents some key figures about water facilities and sources. It is intended for its publication in social media (e.g. Instagram), with a link to the full Power BI report.
 
-!()[]
+!()[files/infographic.png]
 
 ### Data Source
 
