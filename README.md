@@ -177,7 +177,7 @@ The following image shows the definitive semantic model:
 
 ### Power BI Report
 
-A report was built upon the model. The editable version can be found in the [Power BI file](files/water-bottling-facilities-in-the-us.pbix) on this Github repository. There is also a read-only version of the report on [this link](https://app.powerbi.com/view?r=eyJrIjoiNGI5MWYxNjctZTVmZi00MGNjLTkzYjItMjgxNTRiNWU3MDdmIiwidCI6IjM1NDg3YTU2LTFlNGYtNDAzNC04ODNkLWViYjBiMDMxZDNjNCIsImMiOjR9&pageName=201007cede2b36c8f5ce).
+A report was built upon the model. The editable version can be found in the [Power BI file]() on this Github repository. There is also a read-only version of the report on [this link](https://app.powerbi.com/view?r=eyJrIjoiNGI5MWYxNjctZTVmZi00MGNjLTkzYjItMjgxNTRiNWU3MDdmIiwidCI6IjM1NDg3YTU2LTFlNGYtNDAzNC04ODNkLWViYjBiMDMxZDNjNCIsImMiOjR9&pageName=201007cede2b36c8f5ce).
 
 The report consists on a front cover and two more pages, with the following elements:
 
