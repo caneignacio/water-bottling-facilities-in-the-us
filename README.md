@@ -177,7 +177,7 @@ The following image shows the definitive semantic model:
 
 ### Power BI Report
 
-A report was built upon the model. The editable version can be found in the [watersources-datagov.pbix]() file on this Github repository. There is also an open link to a read-only version of the report on [this link]().
+A report was built upon the model. The editable version can be found in the [watersources-datagov.pbix]() file on this Github repository. There is also an open link to a read-only version of the report on [this link](https://app.powerbi.com/view?r=eyJrIjoiNGI5MWYxNjctZTVmZi00MGNjLTkzYjItMjgxNTRiNWU3MDdmIiwidCI6IjM1NDg3YTU2LTFlNGYtNDAzNC04ODNkLWViYjBiMDMxZDNjNCIsImMiOjR9).
 
 The report consists on a front cover and two more pages, with the following elements:
 
