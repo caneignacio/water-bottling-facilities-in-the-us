@@ -1,0 +1,118 @@
+STATE_NAME	SOURCE_NAME	YR_DATA_ACQ	DATATYPE_ACQ	HOW_ACQ	URL
+01:Alabama	Alabama Department of Environmental Management	2022	facility list	email	
+01:Alabama	Alabama Office of Water Resources	2021	water use	email	
+01:Alabama	Geological Survey of Alabama: Springs in the Tennessee River Basin	2022	spring locations	online	https://www.gsa.state.al.us/gsa/geologic/geospatial
+02:Alaska	Alaska Department of Environmental Conservation (Food Safety and Sanitation)	2022	facility list	"email, online"	https://data-soa-adec.opendata.arcgis.com/datasets/ADEC::alaska-dec-sdwis-drinking-water-facilities/explore
+02:Alaska	Alaska Department of Natural Resources	2021	"facility list, water use"	online	https://data-soa-adec.opendata.arcgis.com/datasets/ADEC::alaska-dec-sdwis-drinking-water-facilities/explore
+04:Arizona	Arizona Department of Water Resources	2023	"facility list, water use"	online	https://azwatermaps.azwater.gov/aaws/
+05:Arkansas	Arkansas Department of Health (Public Health Safety Food Protection Program)	2021	facility list	email	
+05:Arkansas	Arkansas Natural Resources Commission	2021	water use	email	
+06:California	California Department of Fish and Wildlife: Seeps and Springs - ACE (Areas of Conservation Emphasis)	2022	spring locations	online	https://data.ca.gov/dataset/seeps-and-springs-ace-ds2731
+06:California	California Department of Public Health	2021	facility list	email	
+08:Colorado	Colorado Department of Public Health & Environment (Division of Environmental Health and Sustainability)	2022	facility list	"email, online"	https://maps.dnrgis.state.co.us/dwr/Index.html?viewer=mapviewer
+08:Colorado	"Colorado Division of Water Resources, Department of Natural Resources: Structures - with water rights"	2022	spring locations	online	https://dnrftp.state.co.us/CDSS/GIS/Structure.zip
+08:Colorado	"Colorado Division of Water Resources, Office of State Engineer"	2022	water use	online	https://maps.dnrgis.state.co.us/dwr/Index.html?viewer=mapviewer
+09:Connecticut	Connecticut Department of Consumer Protection	2021	facility list	email	
+09:Connecticut	Connecticut Department of Energy and Environmental Protection	2021	"facility list, water use"	email	
+09:Connecticut	Connecticut Department of Public Health (Drinking Water Section)	2021	facility list	"email, online"	https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/search?groupIds=570c3fcbc1794f31884966716f6bf06f
+10:Delaware	Delaware River Basin Commission	2021	water use	online	https://www.nj.gov/drbc/basin/map/GIS.html
+11:District of Columbia	District of Columbia Department of Health	2023	facility list	online	https://dcgis.maps.arcgis.com/home/index.html
+12:Florida	Florida Department of Agriculture and Consumer Services (Division of Food Safety)	2022	facility list	email	
+12:Florida	Florida Department of Environmental Protection: Florida Springs (2016)	2022	spring locations	online	https://geodata.dep.state.fl.us/datasets/1cb0f28650b54d7fadb4bd62f4c7a2c1/explore
+12:Florida	Northwest Florida Water Management District	2021	"facility list, water use"	online	https://nwfwmd-open-data-nwfwmd.hub.arcgis.com/search?collection=Dataset
+12:Florida	South Florida Water Management District	2021	"facility list, water use"	online	https://sfwmd.maps.arcgis.com/apps/View/index.html?appid=c1fc6780e15246d08bbf4164cf2a7c36
+12:Florida	Southwest Florida Water Management District	2021	"facility list, water use"	online	https://sfwmd.maps.arcgis.com/apps/View/index.html?appid=c1fc6780e15246d08bbf4164cf2a7c36
+12:Florida	St. Johns River Water Management District	2021	"facility list, water use"	online	https://data-floridaswater.opendata.arcgis.com/
+12:Florida	Suwannee River Water Management District	2021	"facility list, water use"	online	https://www.mysuwanneeriver.com/319/Data-Directory
+13:Georgia	Georgia Department of Natural Resources (Environmental Protection Division)	2021	"facility list, water use"	email	
+15:Hawaii	Hawaii Department of Land and Natural Resources (Commission on Water Resource Management)	2021	facility list	email	
+16:Idaho	Idaho Department of Water Resources	2021	water use	online	https://data-idwr.hub.arcgis.com/search?collection=Dataset
+16:Idaho	Idaho Department of Water Resources: Points of Diversion	2022	spring locations	online	https://data-idwr.hub.arcgis.com/datasets/water-right-pods/explore
+17:Illinois	Illinois Department of Public Health	2021	facility list	email	
+18:Indiana	Indiana Department of Health (Food Protection Division)	2021	facility list	email	
+18:Indiana	Indiana Department of Natural Resources	2021	"facility list, water use"	online	https://www.in.gov/dnr/water/ground-water-wells/assessment-maps-and-publications/aquifer-systems-mapping-148000/
+20:Kansas	Kansas Department of Agriculture	2023	"facility list, water use"	email	
+21:Kentucky	Kentucky Cabinet for Health and Family Services	2021	facility list	email	
+21:Kentucky	Kentucky Department for Natural Resources & Environmental Protection	2021	"facility list, water use"	email	
+21:Kentucky	Kentucky Geological Survey: Water Well and Spring Location Map	2022	spring locations	online	https://kgs.uky.edu/kgsmap/kgswater/viewer.asp#
+22:Louisiana	Louisiana Department of Public Health	2022	facility list	email	
+22:Louisiana	Louisiana Department of Transportation & Development	2023	water use	email	
+23:Maine	Maine Department of Health and Human Services	2021	facility list	online	https://www.maine.gov/geolib/catalogalpha.html
+23:Maine	Maine Geological Survey	2021	water use	email	
+24:Maryland	Maryland Department of Health (Center for Food Processing)	2022	facility list	email	
+24:Maryland	Maryland Department of the Environment	2023	water use	email	
+25:Massachusetts	Massachusetts Department of Environmental Protection	2021	"facility list, water use"	email	
+25:Massachusetts	"Massachusetts Department of Public Health (Bureau of Environmental Health, Food Protection Program)"	2021	facility list	"email, online"	https://www.mass.gov/info-details/massgis-data-layers
+26:Michigan	Michigan Department of Agriculture and Rural Development	2021	facility list	email	
+26:Michigan	"Michigan Department of Environment, Great Lakes, and Energy"	2021	"facility list, water use"	email	
+27:Minnesota	Minnesota Department of Agriculture	2021	facility list	email	
+27:Minnesota	Minnesota Department of Natural Resources	2021	water use	"email, online"	https://www.dnr.state.mn.us/waters/watermgmt_section/appropriations/wateruse.html
+27:Minnesota	Minnesota Department of Natural Resources: Spring Inventory	2022	spring locations	online	https://www.dnr.state.mn.us/waters/groundwater_section/mapping/springs.html
+28:Mississippi	Mississippi Department of Environmental Quality (Office of Pollution Control)	2023	water use	email	
+28:Mississippi	Mississippi State Department of Health	2021	facility list	email	
+29:Missouri	Missouri Department of Health & Senior Services	2021	facility list	email	
+29:Missouri	Missouri Department of Natural Resources	2021	water use	email	
+30:Montana	Montana Department of Natural Resources and Conservation: Water Rights-Points of Diversion (Springs)	2022	spring locations	online	https://ftpgeoinfo.msl.mt.gov/Data/Spatial/NonMSDI/DNRC_WR/
+30:Montana	Montana Department of Public Health and Human Services	2022	facility list	email	
+31:Nebraska	Nebraska Department of Agriculture	2022	facility list	email	
+32:Nevada	"BLM Nevada State Office, Mapping Sciences: Hydrology, Springs"	2022	spring locations	online	https://archive.epa.gov/esd/archive-nerl-esd1/web/html/nvgeo_gis10_springs.html
+32:Nevada	Las Vegas Valley Water District	2021	"facility list, water use"	email	
+32:Nevada	Nevada Department of Health and Human Services	2022	facility list	email	
+32:Nevada	Southern Nevada Health District	2021	facility list	email	
+33:New Hampshire	New Hampshire Department of Environmental Services	2021	"facility list, water use"	online	https://www4.des.state.nh.us/onestopdatamapper/onestopmapper.aspx
+34:New Jersey	New Jersey Department of Environmental Protection (Division of Water Resources)	2023	"facility list, water use"	online	https://gisdata-njdep.opendata.arcgis.com/datasets/njdep::surface-water-springs-of-new-jersey/explore
+34:New Jersey	"New Jersey Department of Environmental Protection: Springs of New Jersey, Edition 20220208"	2022	spring locations	online	https://www.nj.gov/dep/gis/digidownload/zips/OpenData/Hydr_spring.zip
+34:New Jersey	New Jersey Department of Health	2023	facility list	email	
+34:New Jersey	New Jersey Division of Revenue and Enterprise Services	2021	facility list	email	
+35:New Mexico	New Mexico Environment Department (Drinking Water Bureau)	2021	facility list	email	
+36:New York	New York State Department of Environmental Conservation	2021	"facility list, water use"	email	
+36:New York	New York State Department of Health (Bottled and Bulk Water Program)	2021	facility list	online	https://www.health.ny.gov/environmental/water/drinking/bulk_bottle/
+38:North Dakota	North Dakota State Department of Health	2022	facility list	email	
+39:Ohio	Ohio Department of Agriculture (Division of Food Safety)	2021	facility list	email	
+39:Ohio	Ohio Department of Natural Resources (Division of Water Resources)	2021	water use	email	
+40:Oklahoma	Oklahoma State Department of Health	2022	facility list	email	
+41:Oregon	Oregon Department of Agriculture	2021	facility list	email	
+41:Oregon	Oregon Water Resources Department	2021	"facility list, water use"	online	https://www.oregon.gov/owrd/access_data/pages/maps.aspx
+42:Pennsylvania	Pennsylvania Department of Environmental Protection	2021	"facility list, water use"	online	https://newdata-padep-1.opendata.arcgis.com/
+42:Pennsylvania	Susquehanna River Basin Commission	2021	water use	online	https://www.srbc.net/portals/susquehanna-atlas/data-and-maps/
+44:Rhode Island	Rhode Island Department of Health (Center for Drinking Water Quality)	2021	"facility list, water use"	email	
+45:South Carolina	South Carolina Department of Health and Environmental Control	2021	"facility list, water use"	email	
+46:South Dakota	South Dakota Department of Agriculture and Natural Resources	2021	facility list	online	https://sc-department-of-health-and-environmental-control-gis-sc-dhec.hub.arcgis.com/search?categories=waterdata
+47:Tennessee	Tennessee Department of Agriculture	2021	facility list	email	
+47:Tennessee	Tennessee Department of Environment and Conservation (Division of Water Resources)	2023	"facility list, water use"	email	
+48:Texas	Texas Department of Licensing and Regulation (TDLR) and Texas Water Development Board (TWDB): Submitted Drillers Reports (SDR) Database and Groundwater Database (GWDB)	2022	spring locations	online	http://www.twdb.texas.gov/groundwater/data/drillersdb.asp
+48:Texas	Texas Department of State Health Services (Manufactured Foods Operations)	2022	facility list	email	
+48:Texas	Texas Water Development Board	2021	"facility list, water use"	online	https://www.twdb.texas.gov/mapping/gisdata.asp
+49:Utah	Utah Division of Water Rights	2023	water use	online	https://www.arcgis.com/apps/mapviewer/index.html?url=https://services.arcgis.com/ZzrwjTRez6FJiOq4/ArcGIS/rest/services/PODView/FeatureServer&source=sd
+49:Utah	"Utah Geospatial Resource Center: NHD Lakes, Rivers, Streams, and Springs"	2022	spring locations	online	https://gis.utah.gov/data/water/lakes-rivers-dams/
+50:Vermont	Vermont Agency of Natural Resources (Department of Environmental Conservation)	2021	"facility list, water use"	email	
+50:Vermont	Vermont Agency of Natural Resources GIS Open-Data: Source Protection Areas	2022	spring locations	online	https://anrgeodata.vermont.gov/datasets/43d5689ed7bb4473a0b318875eaaf770_187/about
+51:Virginia	Virginia Department of Agriculture and Consumer Services (Food Safety Program)	2021	facility list	"email, online"	https://vgin.vdem.virginia.gov/search?groupIds=b27c9c749dbd47cbaf7f7151ce665ad5&sort=-modified
+51:Virginia	Virginia Department of Environmental Quality (Office of Water Supply Planning)	2021	"facility list, water use"	email	
+53:Washington	Washington Department of Agriculture (Food Safety Program)	2021	facility list	email	
+53:Washington	Washington Department of Ecology	2021	water use	email	
+54:West Virginia	"West Virginia Department of Health and Human Resources (Bureau for Public Health, Office of Environmental Health Services, Bottled Water Program)"	2021	"facility list, water use"	"email, online"	https://tagis.dep.wv.gov/home/
+54:West Virginia	West Virginia Department of Environmental Protection (Division of Water and Waste Management)	2021	"facility list, water use"	email	
+54:West Virginia	West Virginia GIS Technical Center: Springs with average flow of 100 gpm or higher	2022	spring locations	online	http://wvgis.wvu.edu/data/dataset.php?ID=126
+55:Wisconsin	"Wisconsin Department of Agriculture, Trade & Consumer Protection"	2021	facility list	"email, online"	https://datcp.wi.gov/Pages/Programs_Services/BottledWater.aspx
+55:Wisconsin	Wisconsin Department of Natural Resources	2021	"facility list, water use"	"email, online"	https://apps.dnr.wi.gov/waterusepub/Source
+55:Wisconsin	Wisconsin Geological and Natural History Survey: springs inventory	2022	spring locations	online	https://wgnhs.wisc.edu/water-environment/springs/
+56:Wyoming	Wyoming Department of Agriculture (Consumer Health Services)	2023	facility list	email	
+56:Wyoming	Wyoming State Engineer's Office	2021	facility list	online	https://waterplan.state.wy.us/plan/statewide/gis/gis.html
+Multiple States	Bottled Water Web	2023	facility list	online	https://www.bottledwaterweb.com/
+Multiple States	Data Axle	2023	facility list	purchased	https://www.data-axle.com/what-we-do/reference-solutions/
+Multiple States	EZ Select Business Data Source	2021	facility list	online	https://www.industryselect.com/
+Multiple States	International Packaged Ice Association	2023	facility list	online	https://www.packagedice.com/
+Multiple States	Missouri Valley Ice Manufacturers Association	2023	facility list	online	https://movalleyice.org/
+Multiple States	Newspaper article	2021	facility list	online	[various]
+Multiple States	Northeastern Ice Association	2023	facility list	online	http://www.northeasternice.com/
+Multiple States	Open Corporates	2023	facility list	online	https://opencorporates.com/
+Multiple States	Reddy Ice	2022	facility list	online	https://www.reddyice.com/locations/
+Multiple States	Southern Ice Exchange	2023	facility list	online	https://southerniceexchange.com/
+Multiple States	Southwestern Ice Association	2023	facility list	online	http://www.southwesterniceassociation.org/
+Multiple States	U.S. Environmental Protection Agency: Safe Drinking Water Information System	2021	water source locations	email	https://sdwis.epa.gov/ords/sfdw_pub/f?p=108:200::::::
+Multiple States	U.S. Food and Drug Administration Dashboard - Inspections 	2023	facility list	online	https://datadashboard.fda.gov/ora/cd/inspections.htm
+Multiple States	U.S. Geological Survey: National Hydrography Dataset Plus High Resolution	2022	spring locations	online	https://www.usgs.gov/national-hydrography/nhdplus-high-resolution
+Multiple States	U.S. Geological Survey: National Water Information System	2023	water source locations	online	https://waterdata.usgs.gov/nwis/si
+Multiple States	Websites	2021	"facility list, water use"	online	[various]
+Multiple States	Western Ice Association	2023	facility list	online	https://www.westerniceassociation.org/
