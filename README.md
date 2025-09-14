@@ -237,7 +237,7 @@ This report would allow U.S. citizens to draw some conclusions about water bottl
 
 - The facility with the greatest level of water withdrawal was **Mgpi Processing, Inc.**, with a daily average of **10.4 million gallons**. This facility reached its highest daily average in June 2017, with 12.30 million gallons. 
 
-## Infographic
+### Infographic
 
 As it was previously stated, an infographic was developed with the main conclusions of this analysis. It was designed as if it were authored by _Water Fact_, a fictional social media page which generally posts interesting facts about water as a critical resource for human consumption and most agricultural and industrial activities.
 
